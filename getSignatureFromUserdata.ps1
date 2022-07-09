@@ -1,4 +1,3 @@
-﻿#python $combinePath -p C4B1B5D0 userdata.bin
 #Get Current Working Directory 
 #split-path is used to get the path UP TO the ps1 name
 $CWD = Split-Path $MyInvocation.MyCommand.Path -Parent
